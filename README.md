@@ -1,3 +1,5 @@
+Created by Jerome Ball on October 4th, 2026
+
 # Secure Login Project V2.0
 
 This updated C++ program expands upon the login system by implementing Vigenere encryption/decryption.
