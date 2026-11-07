@@ -1,6 +1,6 @@
 CEN 4078 Secure Software Development 
 
-Programming Exercise – Vigenère Cryptography &  Covering All Cases 
+Programming Exercise 2 – Vigenère Cryptography &  Covering All Cases 
 
 Summary 
 
